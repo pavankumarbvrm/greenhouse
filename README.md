@@ -1,5 +1,5 @@
 # Greenhouse Reference Application
-
+FROM DEVELOP
 ## Overview
 
 Greenhouse is a Java web application built for the Spring community that has two primary goals:
